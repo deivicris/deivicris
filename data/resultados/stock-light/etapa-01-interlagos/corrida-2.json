@@ -1,0 +1,41 @@
+{
+  "categoria": "Stock Light",
+  "ano": 2018,
+  "etapa": 1,
+  "local": "Interlagos",
+  "circuito": "Interlagos",
+  "comprimento_km": 4.33,
+  "tipo": "corrida",
+  "prova": 2,
+  "data": "2018-03-10",
+  "horario": "12:19",
+  "voltas_lider": 14,
+  "melhor_volta": { "piloto": "Gabriel Robe", "tempo": "1:53.036" },
+  "observacoes": [
+    "#10 drive through por queima de largada",
+    "#7, #46 e #23 penalizados em 20s no tempo de prova, cfe art 20.7 do Reg. Desportivo"
+  ],
+  "resultados": [
+    { "p": 1,  "num": 58, "piloto": "João Rosate",       "equipe": "Carlos Alves Competições",  "voltas": 14, "tempo_total": "00:27:20.972", "melhor_volta": "1:53.440", "rookie": true  },
+    { "p": 2,  "num": 35, "piloto": "Gabriel Robe",      "equipe": "Motortech Competições",     "voltas": 14, "tempo_total": "00:27:21.306", "melhor_volta": "1:53.036", "rookie": false },
+    { "p": 3,  "num": 9,  "piloto": "Marcel Coletta",    "equipe": "Cimed Racing Júnior",       "voltas": 14, "tempo_total": "00:27:27.742", "melhor_volta": "1:53.750", "rookie": true  },
+    { "p": 4,  "num": 36, "piloto": "Pedro Boesel",      "equipe": "RKL Motorsports",           "voltas": 14, "tempo_total": "00:27:29.894", "melhor_volta": "1:54.206", "rookie": false },
+    { "p": 5,  "num": 17, "piloto": "Pietro Rimbano",    "equipe": "W2 Racing",                 "voltas": 14, "tempo_total": "00:27:31.258", "melhor_volta": "1:54.096", "rookie": false },
+    { "p": 6,  "num": 1,  "piloto": "Erik Mayrink",      "equipe": "",                          "voltas": 14, "tempo_total": "00:27:44.885", "melhor_volta": "1:54.846", "rookie": true  },
+    { "p": 7,  "num": 86, "piloto": "Gustavo Frigoto",   "equipe": "RKL Motorsports",           "voltas": 14, "tempo_total": "00:27:51.303", "melhor_volta": "1:54.757", "rookie": false },
+    { "p": 8,  "num": 23, "piloto": "Marco Cozzi",       "equipe": "",                          "voltas": 14, "tempo_total": "00:27:58.298", "melhor_volta": "1:53.687", "rookie": false },
+    { "p": 9,  "num": 66, "piloto": "Gustavo Bandeira",  "equipe": "",                          "voltas": 14, "tempo_total": "00:28:05.954", "melhor_volta": "1:56.163", "rookie": true  },
+    { "p": 10, "num": 46, "piloto": "Tuca Antoniazzi",   "equipe": "Motortech Motorsport",      "voltas": 14, "tempo_total": "00:28:10.039", "melhor_volta": "1:55.046", "rookie": false },
+    { "p": 11, "num": 71, "piloto": "Lucas Dalaffe",     "equipe": "MRF Motorsport",            "voltas": 14, "tempo_total": "00:28:15.946", "melhor_volta": "1:55.809", "rookie": true  },
+    { "p": 12, "num": 89, "piloto": "Rodrigo Gil",       "equipe": "",                          "voltas": 14, "tempo_total": "00:28:19.084", "melhor_volta": "1:56.204", "rookie": false },
+    { "p": 13, "num": 10, "piloto": "Murilo Coletta",    "equipe": "Cimed Racing Júnior",       "voltas": 14, "tempo_total": "00:28:19.894", "melhor_volta": "1:54.917", "rookie": true  },
+    { "p": 14, "num": 85, "piloto": "Enzo Bortoletto",   "equipe": "KTF Sports",                "voltas": 14, "tempo_total": "00:28:38.504", "melhor_volta": "1:56.149", "rookie": true  },
+    { "p": 15, "num": 12, "piloto": "Lauro Traldi",      "equipe": "MRF Motorsport",            "voltas": 14, "tempo_total": "00:28:46.911", "melhor_volta": "1:58.069", "rookie": false },
+    { "p": 16, "num": 74, "piloto": "Odair dos Santos",  "equipe": "PGG MRF Paraguay Racing",   "voltas": 14, "tempo_total": "00:29:13.729", "melhor_volta": "1:55.559", "rookie": false },
+    { "p": 17, "num": 43, "piloto": "Pedro Cardoso",     "equipe": "Carlos Alves Competições",  "voltas": 12, "tempo_total": "00:23:41.210", "melhor_volta": "1:53.503", "rookie": true,  "nc": true },
+    { "p": 18, "num": 7,  "piloto": "Vinicius Margiota", "equipe": "",                          "voltas": 7,  "tempo_total": "00:18:27.194", "melhor_volta": "1:55.585", "rookie": true,  "nc": true },
+    { "p": 19, "num": 77, "piloto": "Raphael Reis",      "equipe": "W2 Racing",                 "voltas": 6,  "tempo_total": "00:11:54.535", "melhor_volta": "1:55.411", "rookie": false, "nc": true },
+    { "p": 20, "num": 22, "piloto": "Gabriel Lusquiños", "equipe": "Motortech Competições",     "voltas": 6,  "tempo_total": "00:11:59.404", "melhor_volta": "1:54.836", "rookie": true,  "nc": true },
+    { "p": 21, "num": 18, "piloto": "Gustavo Myasava",   "equipe": "PGG MRF Paraguay Racing",   "voltas": 2,  "tempo_total": "00:04:05.547", "melhor_volta": "1:56.543", "rookie": false, "nc": true }
+  ]
+}

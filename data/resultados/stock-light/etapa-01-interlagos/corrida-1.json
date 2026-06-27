@@ -1,0 +1,39 @@
+{
+  "categoria": "Stock Light",
+  "ano": 2018,
+  "etapa": 1,
+  "local": "Interlagos",
+  "circuito": "Interlagos",
+  "comprimento_km": 4.33,
+  "tipo": "qualy",
+  "data": "2018-03-09",
+  "horario": "11:21",
+  "resultados": [
+    { "p": 1,  "num": 18, "piloto": "Gustavo Myasava",    "equipe": "",                       "tempo": "1:51.176", "rookie": false },
+    { "p": 2,  "num": 85, "piloto": "Enzo Bortoletto",    "equipe": "KTF Sports",              "tempo": "1:51.214", "rookie": true  },
+    { "p": 3,  "num": 35, "piloto": "Gabriel Robe",       "equipe": "Motortech Competições",   "tempo": "1:51.300", "rookie": false },
+    { "p": 4,  "num": 17, "piloto": "Pietro Rimbano",     "equipe": "",                       "tempo": "1:51.415", "rookie": false },
+    { "p": 5,  "num": 43, "piloto": "Pedro Cardoso",      "equipe": "Carlos Alves Competições","tempo": "1:51.416", "rookie": true  },
+    { "p": 6,  "num": 58, "piloto": "João Rosate",        "equipe": "Carlos Alves Competições","tempo": "1:51.459", "rookie": true  },
+    { "p": 7,  "num": 86, "piloto": "Gustavo Frigoto",    "equipe": "",                       "tempo": "1:51.520", "rookie": false },
+    { "p": 8,  "num": 23, "piloto": "Marco Cozzi",        "equipe": "",                       "tempo": "1:51.677", "rookie": false },
+    { "p": 9,  "num": 22, "piloto": "Gabriel Lusquiños",  "equipe": "Motortech Competições",   "tempo": "1:52.272", "rookie": true  },
+    { "p": 10, "num": 9,  "piloto": "Marcel Coletta",     "equipe": "",                       "tempo": "1:52.431", "rookie": true  },
+    { "p": 11, "num": 36, "piloto": "Pedro Boesel",       "equipe": "",                       "tempo": "1:52.690", "rookie": false },
+    { "p": 12, "num": 77, "piloto": "Raphael Reis",       "equipe": "",                       "tempo": "1:52.702", "rookie": false },
+    { "p": 13, "num": 10, "piloto": "Murilo Coletta",     "equipe": "",                       "tempo": "1:53.222", "rookie": true  },
+    { "p": 14, "num": 7,  "piloto": "Vinicius Margiota",  "equipe": "",                       "tempo": "1:53.395", "rookie": true  },
+    { "p": 15, "num": 74, "piloto": "Odair dos Santos",   "equipe": "",                       "tempo": "1:53.672", "rookie": false },
+    { "p": 16, "num": 66, "piloto": "Gustavo Bandeira",   "equipe": "",                       "tempo": "1:53.934", "rookie": true  },
+    { "p": 17, "num": 1,  "piloto": "Erik Mayrink",       "equipe": "",                       "tempo": "1:54.958", "rookie": true  },
+    { "p": 18, "num": 46, "piloto": "Tuca Antoniazzi",    "equipe": "",                       "tempo": "1:55.198", "rookie": false },
+    { "p": 19, "num": 89, "piloto": "Rodrigo Gil",        "equipe": "",                       "tempo": "1:55.361", "rookie": false },
+    { "p": 20, "num": 71, "piloto": "Lucas Dalaffe",      "equipe": "MRF Motorsport",          "tempo": "1:55.779", "rookie": true  },
+    { "p": 21, "num": 12, "piloto": "Lauro Traldi",       "equipe": "MRF Motorsport",          "tempo": "1:56.393", "rookie": false }
+  ],
+  "pole": {
+    "piloto": "Gustavo Myasava",
+    "tempo": "1:51.176",
+    "velocidade_media_kmh": 140.2
+  }
+}
