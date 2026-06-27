@@ -1,0 +1,58 @@
+[
+  {
+    "n": 1,
+    "data": "29 MAR",
+    "local": "Cascavel",
+    "uf": "PR",
+    "tipo": "Sprint"
+  },
+  {
+    "n": 2,
+    "data": "17 MAI",
+    "local": "Goiânia",
+    "uf": "GO",
+    "tipo": "Sprint"
+  },
+  {
+    "n": 3,
+    "data": "20 JUN",
+    "local": "Cuiabá",
+    "uf": "MT",
+    "tipo": "Sprint"
+  },
+  {
+    "n": 4,
+    "data": "09 AGO",
+    "local": "Santa Cruz do Sul",
+    "uf": "RS",
+    "tipo": "Endurance"
+  },
+  {
+    "n": 5,
+    "data": "06 SET",
+    "local": "Chapecó",
+    "uf": "SC",
+    "tipo": "Sprint"
+  },
+  {
+    "n": 6,
+    "data": "27 SET",
+    "local": "Brasília",
+    "uf": "DF",
+    "tipo": "Sprint"
+  },
+  {
+    "n": 7,
+    "data": "15 NOV",
+    "local": "Velopark",
+    "uf": "RS",
+    "tipo": "Sprint"
+  },
+  {
+    "n": 8,
+    "data": "13 DEZ",
+    "local": "Interlagos",
+    "uf": "SP",
+    "tipo": "Endurance"
+  }
+]

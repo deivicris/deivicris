@@ -1,0 +1,91 @@
+[
+  {
+    "ano": 2018,
+    "links": [
+      {
+        "label": "Desportivo",
+        "url": "https://www.cba.org.br/upload/downloads//432/brasileiro-de-turismo-nacional-regulamento-desportivo-2018-.pdf"
+      }
+    ]
+  },
+  {
+    "ano": 2019,
+    "links": [
+      {
+        "label": "Desportivo",
+        "url": "https://www.cba.org.br/upload/downloads//431/turismo-nacional-regulamento-desportivo-2019-.pdf"
+      }
+    ]
+  },
+  {
+    "ano": 2020,
+    "links": [
+      {
+        "label": "Desportivo",
+        "url": "https://www.cba.org.br/upload/downloads//530/regulamento-desportivo-turismo-nacional-2020-.pdf"
+      }
+    ]
+  },
+  {
+    "ano": 2021,
+    "links": [
+      {
+        "label": "Desportivo",
+        "url": "https://www.cba.org.br/upload/downloads//574/turismo-nacional-regulamento-desportivo-2021-.pdf"
+      }
+    ]
+  },
+  {
+    "ano": 2022,
+    "links": [
+      {
+        "label": "Desportivo",
+        "url": "https://www.cba.org.br/upload/downloads//630/turismo-nacional-regulamento-desportivo-2022-.pdf"
+      }
+    ]
+  },
+  {
+    "ano": 2023,
+    "links": [
+      {
+        "label": "Desportivo",
+        "url": "https://www.cba.org.br/upload/downloads//686/turismo-nacional-regulamento-desportivo-2023-.pdf"
+      }
+    ]
+  },
+  {
+    "ano": 2024,
+    "links": [
+      {
+        "label": "Geral",
+        "url": "https://www.cba.org.br/upload/downloads//730/turismo-nacional-regulamento-desportivo-geral-2024-.pdf"
+      },
+      {
+        "label": "Sprint",
+        "url": "https://www.cba.org.br/upload/downloads//730/turismo-nacional-regulamento-desportivo-sprint-2024-.pdf"
+      },
+      {
+        "label": "Endurance",
+        "url": "https://www.cba.org.br/upload/downloads//730/turismo-nacional-regulamento-desportivo-endurance-2024-.pdf"
+      }
+    ]
+  },
+  {
+    "ano": 2025,
+    "links": [
+      {
+        "label": "Desportivo Geral",
+        "url": "https://www.cba.org.br/upload/downloads//828/turismo-nacional-regulamento-desportivo-geral-2025-.pdf"
+      }
+    ]
+  },
+  {
+    "ano": 2026,
+    "links": [
+      {
+        "label": "Desportivo Geral",
+        "url": "https://www.cba.org.br/upload/downloads//866/turismo-nacional-regulamento-desportivo-geral-2026-.pdf"
+      }
+    ]
+  }
+]

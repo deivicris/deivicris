@@ -1,1 +1,5 @@
-
+{
+  "ACCESS_PASS": "pqla",
+  "SL_REGS_BASE": "https://www.cba.org.br/campeonato/downloads/296/278/regulamentos",
+  "TN_REGS_BASE": "https://www.cba.org.br/campeonato/downloads/228/302"
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "n": 1,
+    "data": "26 ABR",
+    "local": "Interlagos",
+    "uf": "SP"
+  },
+  {
+    "n": 2,
+    "data": "17 MAI",
+    "local": "Goiânia",
+    "uf": "GO"
+  },
+  {
+    "n": 3,
+    "data": "20 JUN",
+    "local": "Cuiabá",
+    "uf": "MT"
+  },
+  {
+    "n": 4,
+    "data": "26 JUL",
+    "local": "Velocitta",
+    "uf": "SP"
+  },
+  {
+    "n": 5,
+    "data": "06 SET",
+    "local": "Chapecó",
+    "uf": "SC"
+  },
+  {
+    "n": 6,
+    "data": "27 SET",
+    "local": "Brasília",
+    "uf": "DF"
+  },
+  {
+    "n": 7,
+    "data": "13 DEZ",
+    "local": "Interlagos",
+    "uf": "SP"
+  }
+]
